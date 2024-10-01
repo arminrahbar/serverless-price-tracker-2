@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/serverless-price-tracker/static/css/main.f55d3c7f.css",
-    "main.js": "/serverless-price-tracker/static/js/main.622edb54.js",
-    "static/js/453.95a3a031.chunk.js": "/serverless-price-tracker/static/js/453.95a3a031.chunk.js",
-    "index.html": "/serverless-price-tracker/index.html",
-    "main.f55d3c7f.css.map": "/serverless-price-tracker/static/css/main.f55d3c7f.css.map",
-    "main.622edb54.js.map": "/serverless-price-tracker/static/js/main.622edb54.js.map",
-    "453.95a3a031.chunk.js.map": "/serverless-price-tracker/static/js/453.95a3a031.chunk.js.map"
+    "main.css": "/serverless-price-tracker-2/static/css/main.f55d3c7f.css",
+    "main.js": "/serverless-price-tracker-2/static/js/main.c62b9be4.js",
+    "static/js/453.95a3a031.chunk.js": "/serverless-price-tracker-2/static/js/453.95a3a031.chunk.js",
+    "index.html": "/serverless-price-tracker-2/index.html",
+    "main.f55d3c7f.css.map": "/serverless-price-tracker-2/static/css/main.f55d3c7f.css.map",
+    "main.c62b9be4.js.map": "/serverless-price-tracker-2/static/js/main.c62b9be4.js.map",
+    "453.95a3a031.chunk.js.map": "/serverless-price-tracker-2/static/js/453.95a3a031.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f55d3c7f.css",
-    "static/js/main.622edb54.js"
+    "static/js/main.c62b9be4.js"
   ]
 }
